@@ -114,7 +114,7 @@ header nav ul li a:hover{
 
 .home #left{
     width: 30%;
-    background-image: url(Images/IMG\ \(21\).jpg);
+    background-image: url(Images/profile.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     height: 75vh;
@@ -253,9 +253,6 @@ footer #foot_right a{
     
     .home #left{
         width: 80%;
-        background-image: url(Images/IMG\ \(21\).jpg);
-        background-repeat: no-repeat;
-        background-size:cover;
         height: 50vh;
         margin-left: 0rem;
     }
