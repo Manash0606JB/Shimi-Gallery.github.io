@@ -246,7 +246,7 @@ footer #foot_right a{
     header{
         height: 100vh;
         background-image: url(Images/IMG\ \(13\).jpg);
-        background-position-x: -35rem;
+        background-position: center;
     }
     #work{
         display: grid;
